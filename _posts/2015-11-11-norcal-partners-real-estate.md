@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-11T00:51:07.211Z'
-dateModified: '2015-11-11T00:50:51.179Z'
+datePublished: '2015-11-11T00:52:07.105Z'
+dateModified: '2015-11-11T00:52:02.120Z'
 title: NorCal Partners Real Estate
 authors: []
 publisher:
