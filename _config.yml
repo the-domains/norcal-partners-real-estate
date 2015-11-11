@@ -1,0 +1,23 @@
+name: NorCal Partners Real Estate
+favicon: null
+layout_spectrum: 0.32314634299837053
+typography_spectrum: 0.7597686438821256
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8403018517419696
+  lightness: 0.942918075248599
+  saturation: 0.14959468669258058
+  rhythmicContrast: 0.8063786432612687
+purpose: []
