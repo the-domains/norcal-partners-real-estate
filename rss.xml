@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[NorCal Partners Real Estate]]></title>
+        <description><![CDATA[NorCal Partners Real Estate]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 11 Nov 2015 00:52:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[NorCal Partners Real Estate]]></title>
+            <description><![CDATA[<h1>NorCal Partners Real Estate</h1>]]></description>
+            <link>undefinednorcal-partners-real-estate/index.html</link>
+            <guid isPermaLink="false">4d9815cf-569d-4eaa-8814-687e2851653e</guid>
+            <pubDate>Wed, 11 Nov 2015 00:51:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
