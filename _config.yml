@@ -1,7 +1,8 @@
 name: NorCal Partners Real Estate
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0
+typography_spectrum: 0.5
+title: NorCal Partners Real Estate
 cta:
   domain: null
   bucket: null
