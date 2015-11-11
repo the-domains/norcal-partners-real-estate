@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[NorCal Partners Real Estate]]></title>
         <description><![CDATA[NorCal Partners Real Estate]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/norcal-partners-real-estate/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 Nov 2015 00:52:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 11 Nov 2015 00:52:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/norcal-partners-real-estate/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[NorCal Partners Real Estate]]></title>
             <description><![CDATA[<h1>NorCal Partners Real Estate</h1>]]></description>
-            <link>undefinednorcal-partners-real-estate/index.html</link>
+            <link>https://thegrid.ai/norcal-partners-real-estate/norcal-partners-real-estate/index.html</link>
             <guid isPermaLink="false">4d9815cf-569d-4eaa-8814-687e2851653e</guid>
-            <pubDate>Wed, 11 Nov 2015 00:51:07 GMT</pubDate>
+            <pubDate>Wed, 11 Nov 2015 00:52:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
