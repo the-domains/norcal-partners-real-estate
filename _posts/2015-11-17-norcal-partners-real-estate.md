@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Rowland Fellows Broker, CDPE, ePro, GREEN (916) 792-2368 CA DRE # 01435867 rfellows@NorCalpartners.com'
-datePublished: '2015-11-17T20:35:44.523Z'
-dateModified: '2015-11-17T20:35:39.746Z'
+datePublished: '2015-11-17T20:38:48.998Z'
+dateModified: '2015-11-17T20:38:33.875Z'
 author: []
 title: NorCal Partners Real Estate
 sourcePath: _posts/2015-11-17-norcal-partners-real-estate.md
