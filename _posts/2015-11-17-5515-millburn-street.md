@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://norcalpartners.com/listings/5515-millburn-street/'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Nicely updated rancher near Mercy San Juan Hospital. Enjoy your built-in outdoor BBQ, pool and excellent outdoor living space! Terrific bonus room with plenty of space for a pool table. Remodeled kitchen and updated bathroom. Welcome home!'
-datePublished: '2015-11-17T19:58:42.271Z'
-dateModified: '2015-11-17T19:58:27.456Z'
+datePublished: '2015-11-17T20:01:43.786Z'
+dateModified: '2015-11-17T19:59:38.068Z'
 author: []
 title: 5515 Millburn Street
 authors: []
