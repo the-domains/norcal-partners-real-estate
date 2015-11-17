@@ -1,13 +1,14 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://norcalpartners.com/listings/2109-gold-rush-drive/'
 inLanguage: null
 starred: true
 keywords: []
 description: 'Immaculate Powell Manor Home overlooking a Spectacular East Facing LUSHLY LANDSCAPED backyard with a beautiful Water Fall and Spa. Located within WALKING DISTANCE of the Gold River Racquet Club and Town Center & TRAILS connecting to the AMERICAN RIVER PARKWAY. This SPACIOUS Gold River floor plan has beautiful wood floors thought the formal living areas and remodeled Gourmet Kitchen and Dining areas. The garage has a wall of cabinets and attic storage. Relaxing Retreat & Entertaining Paradise'
-datePublished: '2015-11-17T20:23:04.341Z'
-dateModified: '2015-11-17T20:22:59.694Z'
+datePublished: '2015-11-17T20:27:47.565Z'
+dateModified: '2015-11-17T20:27:08.666Z'
 author: []
 title: 2109 Gold Rush Drive
 sourcePath: _posts/2015-11-17-2109-gold-rush-drive.md
@@ -18,7 +19,6 @@ publisher:
   domain: norcalpartners.com
   url: null
   favicon: null
-url: 2109-gold-rush-drive/index.html
 _context: 'http://schema.org'
 _type: Article
 
