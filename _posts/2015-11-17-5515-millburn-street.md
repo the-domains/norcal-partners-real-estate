@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Nicely updated rancher near Mercy San Juan Hospital. Enjoy your built-in outdoor BBQ, pool and excellent outdoor living space! Terrific bonus room with plenty of space for a pool table. Remodeled kitchen and updated bathroom. Welcome home!'
-datePublished: '2015-11-17T20:27:53.954Z'
-dateModified: '2015-11-17T20:26:50.231Z'
+datePublished: '2015-11-17T20:33:16.405Z'
+dateModified: '2015-11-17T20:33:11.368Z'
 author: []
 title: 5515 Millburn Street
 sourcePath: _posts/2015-11-17-5515-millburn-street.md
